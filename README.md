@@ -6,7 +6,7 @@
 
 Meu primeiro curso de HTML e CSS, feito na Alura.
 
-[🔗Clique aqui para acessar](https://luan010z.github.io/NLW-esports-explorer)
+[🔗Clique aqui para acessar](https://luan010z.github.io/html-curso/)
 
 ## 🛠️Tecnologias 
 
